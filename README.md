@@ -1,7 +1,9 @@
 # OCRwithVisionAndCoreML-Part4
 
 Simple Cocoa-App for creating training-images
+This will also create the modified OCR_train.py with your character-set
 
+Please DO NOT modify the OCR_train.py inside this project !!!
 ToDo:
 
 Cleanup
