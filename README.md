@@ -1,6 +1,6 @@
 # OCRwithVisionAndCoreML-Part4
 
-Simple Cooa-App for creating training-images
+Simple Cocoa-App for creating training-images
 
 ToDo:
 
